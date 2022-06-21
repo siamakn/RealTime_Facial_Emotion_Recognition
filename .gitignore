@@ -1,3 +1,13 @@
+.DS_Store
+haarcascade_frontalface_default.xml
+
+# Directories to ignore:
+archive/
+data/
+archive_to_augment_train/
+scratch_training/
+models/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
